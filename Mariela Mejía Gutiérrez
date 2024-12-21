@@ -1,0 +1,39 @@
+Reflexiones sobre proyecto final:
+
+- Elige las tres decisiones que más te gustaron de tus compañeros y las tres que menos
+  Decisiones que más me gustaron
+    1. Implementación de videos para las rutas de los departamentos académicos
+    2. Implementación de la API para mandar correos electrónicos 
+    3. Links para encontrar lugares dentro del ITAM, por ejemplo, la cafetería
+	Decisiones que menos me gustaron
+    1. Se brindó poca información sobre la cafetería
+    2. Poca información sobre servicios escolares
+    3. No incluimos información sobre salud mental en el ITAM.
+
+- Haz un análisis de por qué las buenas fueron muy buenas y por qué las malas no
+   Buenas:
+      - Videos departamentos académicos → Fue buena decisión porque a pesar de que se tiene un mapa de la institución, es más eficaz y genera más confianza seguir un video de cómo se ve la ruta que debes tomar.
+      - Implementación de API para correos → La información de las actividades extracurriculares cambia constantemente y muchas veces como alumnos queremos hacer más preguntas sobre la actividad de nuestro interés. Proporcionar la posibilidad de mandar correos, garantiza que el estudiante pueda resolver sus dudas antes de involucrarse en ellas.
+      - Links para encontrar lugares dentro del ITAM → con ayuda de Maps encontramos que se puede mandar ubicación para llegar a lugares dentro del ITAM, lo cual permite una alternativa para llegar a los lugares de los que no se tienen videos. 
+  Malas:
+      - Cafetería → A pesar de que se brinda la información que como alumnos tenemos, sería una mejor significante trabajar con la cafetería para brindar información extra como cuál es el menú del día para que los alumnos elijan si quieren comer ahí.
+      - Servicios escolares → Se brinda la información mínima necesaria sobre esta área del ITAM. Un
+      - Salud mental ITAM → Como alumno es importante conocer todos los servicios que el ITAM proporciona por lo que incluir la parte de salud mental era fundamental. Sin embargo, ninguno de los involucrados en el equipo teníamos información sobre cómo funciona por lo que agregar esto hubiera resultado en dar información equívoca. 
+
+- ¿Cuáles son las técnicas que aprendí de mi propio proyecto? ¿Qué haría diferente?
+Las técnicas que aprendí durante este proyecto fueron:
+    - Funcionamiento complejo de landbot 
+          - A pesar de haber trabajado con esta herramienta en clase, tuve la oportunidad de conocer más a fondo las funcionalidades que este provee, como por ejemplo, la API para correos electrónicos. 
+          - Además, es una plataforma amigable por lo que hilar las funcionalidades que teníamos era fácil.
+          - A su vez, aprendí a solucionar problemas técnicos relacionados con su uso, lo que me dio más confianza para trabajar con plataformas similares en el futuro.
+    - Reforcé mis habilidades de github
+          - Realicé commits y pull requests de manera individual, lo que no solo confirmó mi conocimiento sobre el uso de esta plataforma (aprendido previamente en clase), sino que también me permitió ganar experiencia práctica colaborando de manera efectiva en un entorno de desarrollo.
+     - Planeación para solución en equipo
+          - Se reforzaron los conocimientos vistos en clase desde los requerimientos que debía tener el chatbot, los casos de uso, la arquitectura a utilizar y el costo de implementación para llevar a cabo todo lo anterior. 
+          - Este proceso me ayudó a comprender la importancia de una planificación detallada y del establecimiento de metas claras desde el inicio.
+Algunas cosas que haría diferente son:
+    - Trabajar con más tiempo 
+          - Ponernos de acuerdo durante las 2 semanas finales fue un reto pues todos teníamos horarios distintos y tuvimos que aprender a adaptarnos a los horarios de los demás. 
+          - Si bien el proyecto se llevó a cabo con éxito, tuvimos muchas ideas que nos hubiera gustado implementar pero a falta de tiempo tuvimos que reducir el alcance del chatbot. 
+    - Buscar otras herramientas, como APIs, que se pudieran implementar en el chatbot para hacerlo más completo ante los ojos del usuario
+    - Tener más información de las áreas del ITAM, por ejemplo, horarios de atención de cada departamento académico y de servicios escolares. 

@@ -1,5 +1,51 @@
 # Chatbot-ITAM
-Diseño de un chatbot creado con Landbot que ayude a un alumno que acaba de entrar al ITAM.
+
+Objetivo: 
+Crea un chatbot para guiar a una persona que acaba de entrar al ITAM.
+
+## Requerimientos y Casos de Uso
+1. El chatbot debe dar un saludo inicial y proporcionar un menú de inicio que proporcione todas las áreas en las que puede ayudar.
+Casos de Uso:
+a. Que el chatbot de un saludo inicial.
+
+<img width="775" alt="image" src="https://github.com/user-attachments/assets/07617ad1-e1f3-41b2-bdd6-7c7bd5d0821e" />
+
+b. Desplegar el menú principal de opciones.
+
+<img width="781" alt="image" src="https://github.com/user-attachments/assets/aa40a174-f778-4259-8991-fb2a83205765" />
+
+c. Manejar bien los errores, por ejemplo, que el usuario conteste algo inesperado.
+
+<img width="453" alt="image" src="https://github.com/user-attachments/assets/60ba587c-0c03-4753-9a84-5b1c8a2c1398" />
+
+2. El chatbot debe proporcionar información detallada sobre los servicios del ITAM, incluyendo los horarios y ubicaciones.
+Casos de uso:
+a. Consultar información sobre la Biblioteca Baillères
+
+<img width="462" alt="image" src="https://github.com/user-attachments/assets/91d9d080-a3ec-4c12-9928-06de3bcc814a" />
+
+b. Consultar información detallada sobre Servicios Escolares
+
+<img width="477" alt="image" src="https://github.com/user-attachments/assets/5390a654-5d11-46f6-952f-10e84895fb1c" />
+
+c. Encontrar la ubicación del Departamento de Matemáticas.
+
+<img width="487" alt="image" src="https://github.com/user-attachments/assets/d8a65da8-5f26-44de-a5f5-abb8fee6395b" />
+
+3. El chatbot debe permitir mandar correos electrónicos personalizados y no personalizados para pedir información sobre diferentes actividades extracurriculares.
+Casos de uso:
+a. Conseguir la página de Twitter de “Asuntos Estudiantiles”
+
+<img width="478" alt="image" src="https://github.com/user-attachments/assets/8a7826f7-2a9c-4da3-adc8-18041ce30e86" />
+
+b. Mandar un correo no personalizado preguntando por actividades extracurriculares.
+
+<img width="474" alt="image" src="https://github.com/user-attachments/assets/72a49bc7-067a-43c3-98db-84a0af892050" />
+
+c. Mandar un correo personalizado preguntando por Danza ITAM.
+
+<img width="475" alt="image" src="https://github.com/user-attachments/assets/57b251dc-bc31-4215-997b-fad852c57152" />
+
 
 ## Metodología
 La metodología utilizada en el proyecto es Agile, un enfoque que permite desarrollar el chatbot de forma iterativa y adaptable. Esta metodología es especialmente adecuada debido a la naturaleza dinámica del proyecto, que requiere pruebas constantes y ajustes en función del feedback recibido. Agile facilita dividir el desarrollo en etapas cortas y manejables, conocidas como sprints, en las que se trabaja en funcionalidades específicas, asegurando avances constantes hacia el objetivo final.

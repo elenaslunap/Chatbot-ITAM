@@ -50,6 +50,7 @@ Finalmente, se pregunta si se tienen más dudas, si es así, el ciclo regresa al
 
 ![Screen Shot 2024-12-20 at 11 34 01 PM](https://github.com/user-attachments/assets/02a35537-11da-492b-84d9-974a9e856593)
 
+![Screen Shot 2024-12-20 at 11 36 27 PM](https://github.com/user-attachments/assets/0751a8bd-21c0-4a5c-9300-3485a6baae28)
 
 
 

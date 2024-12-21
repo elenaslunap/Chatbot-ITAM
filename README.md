@@ -30,3 +30,4 @@ Finalmente, se pregunta si se tienen más dudas, si es así, el ciclo regresa al
 
 ![Screen Shot 2024-12-20 at 11 34 01 PM](https://github.com/user-attachments/assets/4d0efb6c-bfe6-4dda-aa43-b2496ccec317)
 
+![Screen Shot 2024-12-20 at 11 36 27 PM](https://github.com/user-attachments/assets/4945e33e-b4a0-41e5-bed9-fb2179bbaa6c)

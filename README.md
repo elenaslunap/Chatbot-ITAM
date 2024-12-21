@@ -13,6 +13,16 @@ b. Desplegar el menú principal de opciones.
 c. Manejar bien los errores, por ejemplo, que el usuario conteste algo inesperado.
 <img width="453" alt="image" src="https://github.com/user-attachments/assets/60ba587c-0c03-4753-9a84-5b1c8a2c1398" />
 
+2. El chatbot debe proporcionar información detallada sobre los servicios del ITAM, incluyendo los horarios y ubicaciones.
+a. Consultar información sobre la Biblioteca Baillères
+<img width="462" alt="image" src="https://github.com/user-attachments/assets/91d9d080-a3ec-4c12-9928-06de3bcc814a" />
+
+b. Consultar información detallada sobre Servicios Escolares
+<img width="477" alt="image" src="https://github.com/user-attachments/assets/5390a654-5d11-46f6-952f-10e84895fb1c" />
+
+c. Encontrar la ubicación del Departamento de Matemáticas.
+<img width="487" alt="image" src="https://github.com/user-attachments/assets/d8a65da8-5f26-44de-a5f5-abb8fee6395b" />
+
 ## Metodología
 La metodología utilizada en el proyecto es Agile, un enfoque que permite desarrollar el chatbot de forma iterativa y adaptable. Esta metodología es especialmente adecuada debido a la naturaleza dinámica del proyecto, que requiere pruebas constantes y ajustes en función del feedback recibido. Agile facilita dividir el desarrollo en etapas cortas y manejables, conocidas como sprints, en las que se trabaja en funcionalidades específicas, asegurando avances constantes hacia el objetivo final.
 

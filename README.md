@@ -64,7 +64,8 @@ Por último, esta arquitectura optimiza el rendimiento del proyecto al ejecutar 
 
 
 
-# Plan de calidad 
+
+## Plan de calidad 
 
 El plan de calidad en el diseño de un proyecto sirve como una guía para asegurarse de que todo lo que se haga cumpla con los estándares necesarios y que el resultado final sea lo que se espera. Básicamente, ayuda a organizar los pasos, definir cómo se medirá el éxito y garantizar que las cosas funcionen bien, sean fáciles de mantener y seguras. Es como un mapa que asegura que todos en el equipo trabajen en la misma dirección y que el proyecto entregue algo útil y confiable.
 

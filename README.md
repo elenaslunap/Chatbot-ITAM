@@ -61,3 +61,9 @@ El diseño basado en eventos es adecuado porque facilita la gestión simultánea
 Por último, esta arquitectura optimiza el rendimiento del proyecto al ejecutar procesos únicamente cuando ocurren eventos específicos, asegurando un uso eficiente de los recursos. Estas características hacen que la arquitectura basada en eventos sea la más apropiada para alcanzar los objetivos planteados.
 
 <img width="561" alt="Screen Shot 2024-12-21 at 0 08 04" src="https://github.com/user-attachments/assets/70e8392d-8fbe-493b-b27a-692f39910e70" />
+
+
+
+Plan de calidad 
+El plan de calidad en el diseño de un proyecto sirve como una guía para asegurarse de que todo lo que se haga cumpla con los estándares necesarios y que el resultado final sea lo que se espera. Básicamente, ayuda a organizar los pasos, definir cómo se medirá el éxito y garantizar que las cosas funcionen bien, sean fáciles de mantener y seguras. Es como un mapa que asegura que todos en el equipo trabajen en la misma dirección y que el proyecto entregue algo útil y confiable.
+

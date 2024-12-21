@@ -61,3 +61,20 @@ El diseño basado en eventos es adecuado porque facilita la gestión simultánea
 Por último, esta arquitectura optimiza el rendimiento del proyecto al ejecutar procesos únicamente cuando ocurren eventos específicos, asegurando un uso eficiente de los recursos. Estas características hacen que la arquitectura basada en eventos sea la más apropiada para alcanzar los objetivos planteados.
 
 <img width="561" alt="Screen Shot 2024-12-21 at 0 08 04" src="https://github.com/user-attachments/assets/70e8392d-8fbe-493b-b27a-692f39910e70" />
+
+
+
+
+## Plan de calidad 
+
+El plan de calidad en el diseño de un proyecto sirve como una guía para asegurarse de que todo lo que se haga cumpla con los estándares necesarios y que el resultado final sea lo que se espera. Básicamente, ayuda a organizar los pasos, definir cómo se medirá el éxito y garantizar que las cosas funcionen bien, sean fáciles de mantener y seguras. Es como un mapa que asegura que todos en el equipo trabajen en la misma dirección y que el proyecto entregue algo útil y confiable.
+
+ Garantía de la Funcionalidad:
+Para garantizar la funcionalidad del chatbot de ayuda para alumnos de nuevo ingreso, se definirá un conjunto claro de requisitos funcionales, que incluyen dar al estudiante la información que necesita en cuanto a campus y mapas, horarios, actividades extracurriculares, cafetería, servicios escolares y biblioteca. Se implementarán pruebas automatizadas y manuales para validar que el chatbot proporcione respuestas correctas, oportunas y relevantes para un estudiante. Estas pruebas cubrirán casos de uso comunes y variaciones en el lenguaje normal. Adicionalmente, un modelo futuro del sistema se entrenará con conjuntos de datos reales basados en preguntas frecuentes, y se empleará aprendizaje automático para mejorar continuamente la precisión y pertinencia de las respuestas.
+
+Cómo se garantiza el mantenimiento:
+El chatbot estará diseñado de forma modular, es decir, dividido en partes que se puedan actualizar o cambiar sin afectar todo el sistema. Revisaremos periódicamente su contenido y base de datos para que siempre tenga la información más actual sobre la universidad. Además, lo monitorearemos constantemente para detectar errores o problemas y solucionarlos rápido. Por último, toda la estructura y el código estarán bien documentados para que el equipo que lo mantenga en el futuro pueda trabajar fácilmente en él.
+
+Cómo se garantiza la seguridad:
+Para mantener la seguridad del chatbot, usaremos medidas como el cifrado de datos para que toda la información compartida dentro del chat esté protegida. Solo pediremos la información estrictamente necesaria y nos aseguraremos de cumplir con las leyes de protección de datos que correspondan de acuerdo con las reglas del ITAM. Así, nos aseguraremos de que los datos de los estudiantes estén seguros y el sistema sea confiable.
+

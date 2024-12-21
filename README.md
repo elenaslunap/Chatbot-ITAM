@@ -43,3 +43,13 @@ En general, su funcionamiento consiste en
 3) Preguntar si tiene dudas en específico, y de ser el caso, proporcionar los medios (ya sean imágenes, videos, vínculos o envío de correos) para resolverla.
 
 Finalmente, se pregunta si se tienen más dudas, si es así, el ciclo regresa al paso 1, sino, manda un mensaje de adiós y queda listo para que se vuelva a iniciar la conversación. El chatbot está diseñado para resolver preguntas de lo más generales a lo más específicas, proporcionando así el apoyo necesario para un alumno de nuevo ingreso sobre los temas más importantes en sus primeros días de clases en el ITAM. Las fases comentadas en la documentación pueden ser replicadas y mejoradas en un proyecto futuro.
+
+![Screen Shot 2024-12-20 at 11 32 34 PM](https://github.com/user-attachments/assets/28ead25f-43a7-4f50-b609-67dcd6ef3610)
+
+![Screen Shot 2024-12-20 at 11 33 12 PM](https://github.com/user-attachments/assets/05b2c34b-b1ef-4aeb-acdb-0579f5dbd95e)
+
+![Screen Shot 2024-12-20 at 11 34 01 PM](https://github.com/user-attachments/assets/02a35537-11da-492b-84d9-974a9e856593)
+
+
+
+

@@ -1,5 +1,7 @@
 # Chatbot-ITAM
-Diseño de un chatbot creado con Landbot que ayude a un alumno que acaba de entrar al ITAM.
+
+Objetivo: 
+Crea un chatbot para guiar a una persona que acaba de entrar al ITAM.
 
 ## Requerimientos y Casos de Uso
 1. El chatbot debe dar un saludo inicial y proporcionar un menú de inicio que proporcione todas las áreas en las que puede ayudar.

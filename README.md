@@ -52,5 +52,8 @@ Finalmente, se pregunta si se tienen más dudas, si es así, el ciclo regresa al
 
 ![Screen Shot 2024-12-20 at 11 36 27 PM](https://github.com/user-attachments/assets/0751a8bd-21c0-4a5c-9300-3485a6baae28)
 
+## ARQUITECTURA
 
+ La arquitectura del proyecto está basada en eventos, un enfoque ideal para sistemas interactivos que requieren adaptarse dinámicamente a las acciones de los usuarios. En este caso, cada interacción genera un evento que desencadena una respuesta específica, permitiendo que el sistema sea reactivo y responda en tiempo real a las necesidades del usuario. Esto garantiza una experiencia fluida y eficiente durante el uso del sistema.
 
+ 

@@ -23,12 +23,15 @@ Finalmente, en el Sprint 4, se integrará un mapa que ofrezca una vista general 
 ## Propuesta económica
 Se hicieron los siguientes cálculos para una versión avanzada del proyecto, considerando a un senior y junior software developer, product manager, database manager, DevOps junior y diseñador UX/UI.
 
+Los resultados que se obtuvieron fueron: 
 - Total de días programados: 33
 - Total de días reales: 47.85
 - Total sueldos: $53604
 - Precio operativo: $53,831
 - Precio total: $107,435
 - IVA: $17,190
+
 Total con IVA: $124,625
 
 Link para consultar los cálculos: https://docs.google.com/spreadsheets/d/1q1lEzyGmpEZIBDwYOzISUC78EbtqOmf4wvWlQMpoBkQ/edit?usp=sharing 
+

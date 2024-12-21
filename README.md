@@ -1,6 +1,18 @@
 # Chatbot-ITAM
 Diseño de un chatbot creado con Landbot que ayude a un alumno que acaba de entrar al ITAM.
 
+## Requerimientos y Casos de Uso
+1. El chatbot debe dar un saludo inicial y proporcionar un menú de inicio que proporcione todas las áreas en las que puede ayudar.
+Casos de Uso:
+a. Que el chatbot de un saludo inicial.
+<img width="775" alt="image" src="https://github.com/user-attachments/assets/07617ad1-e1f3-41b2-bdd6-7c7bd5d0821e" />
+
+b. Desplegar el menú principal de opciones.
+<img width="781" alt="image" src="https://github.com/user-attachments/assets/aa40a174-f778-4259-8991-fb2a83205765" />
+
+c. Manejar bien los errores, por ejemplo, que el usuario conteste algo inesperado.
+<img width="453" alt="image" src="https://github.com/user-attachments/assets/60ba587c-0c03-4753-9a84-5b1c8a2c1398" />
+
 ## Metodología
 La metodología utilizada en el proyecto es Agile, un enfoque que permite desarrollar el chatbot de forma iterativa y adaptable. Esta metodología es especialmente adecuada debido a la naturaleza dinámica del proyecto, que requiere pruebas constantes y ajustes en función del feedback recibido. Agile facilita dividir el desarrollo en etapas cortas y manejables, conocidas como sprints, en las que se trabaja en funcionalidades específicas, asegurando avances constantes hacia el objetivo final.
 

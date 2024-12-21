@@ -72,3 +72,7 @@ Para garantizar la funcionalidad del chatbot de ayuda para alumnos de nuevo ingr
 
 Cómo se garantiza el mantenimiento
 El chatbot estará diseñado de forma modular, es decir, dividido en partes que se puedan actualizar o cambiar sin afectar todo el sistema. Revisaremos periódicamente su contenido y base de datos para que siempre tenga la información más actual sobre la universidad. Además, lo monitorearemos constantemente para detectar errores o problemas y solucionarlos rápido. Por último, toda la estructura y el código estarán bien documentados para que el equipo que lo mantenga en el futuro pueda trabajar fácilmente en él.
+
+Cómo se garantiza la seguridad
+Para mantener la seguridad del chatbot, usaremos medidas como el cifrado de datos para que toda la información compartida dentro del chat esté protegida. Solo pediremos la información estrictamente necesaria y nos aseguraremos de cumplir con las leyes de protección de datos que correspondan de acuerdo con las reglas del ITAM. Así, nos aseguraremos de que los datos de los estudiantes estén seguros y el sistema sea confiable.
+

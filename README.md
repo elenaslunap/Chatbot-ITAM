@@ -59,3 +59,5 @@ Finalmente, se pregunta si se tienen más dudas, si es así, el ciclo regresa al
 El diseño basado en eventos es adecuado porque facilita la gestión simultánea de múltiples interacciones, lo cual resulta fundamental para entornos donde varios usuarios pueden estar activos de manera concurrente. Además, la estructura modular de esta arquitectura permite que los distintos componentes del sistema operen de manera independiente, simplificando tanto el mantenimiento como la incorporación de nuevas funcionalidades sin afectar el resto del sistema.
 
 Por último, esta arquitectura optimiza el rendimiento del proyecto al ejecutar procesos únicamente cuando ocurren eventos específicos, asegurando un uso eficiente de los recursos. Estas características hacen que la arquitectura basada en eventos sea la más apropiada para alcanzar los objetivos planteados.
+
+<img width="561" alt="Screen Shot 2024-12-21 at 0 08 04" src="https://github.com/user-attachments/assets/70e8392d-8fbe-493b-b27a-692f39910e70" />
